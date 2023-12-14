@@ -5,7 +5,7 @@ import formatPopulation from './helpers/formatPopulation.js';
 import worldMap from './assets/world_map.png';
 import spinningGlobe from './assets/spinning-globe.gif';
 import './App.css';
-
+/* try */
 function App() {
     const [countries, setCountries] = useState([]);
     const [countryInfo, setCountryInfo] = useState({});
